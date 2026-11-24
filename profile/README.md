@@ -20,7 +20,8 @@ them, extract and convert them, convert DSD to PCM, and measure how accurately c
 | [sacd‑spec](https://github.com/aclater/sacd-spec) | Specification of the SACD disc format, with a test corpus |
 
 Where to start, how the projects fit together, and every release:
-[DSD Toolbox](https://github.com/dsd-toolbox/dsd-toolbox).
+[DSD Toolbox](https://github.com/dsd-toolbox/dsd-toolbox). Questions and ideas:
+[Discussions](https://github.com/dsd-toolbox/dsd-toolbox/discussions).
 
 ## How we work
 
