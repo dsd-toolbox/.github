@@ -15,6 +15,7 @@ them, extract and convert them, convert DSD to PCM, upconvert to higher DSD rate
 | [dsd2pcm‑rs](https://github.com/dsd-toolbox/dsd2pcm-rs) | Rust and C library and CLI: DSD to PCM, and DSF, DFF and WAV files |
 | [dsd‑measure](https://github.com/dsd-toolbox/dsd-measure) | Measures DSD and PCM converters the way audiophile reviewers do, and writes one readable report |
 | [dsd‑upsample‑rs](https://github.com/dsd-toolbox/dsd-upsample-rs) | Converts DSF, DFF, WAV and FLAC files to DSD128 or DSD256, and PCM to DSD64 (Linux x86_64 library and command line; plug-ins and other systems follow) |
+| [dsdup‑gst](https://github.com/dsd-toolbox/dsdup-gst) | GStreamer plug-in for dsd-upsample: PCM or DSD64 to DSD256 in, DSD64, DSD128 or DSD256 out (Linux x86_64, built from source) |
 
 ### The clean room
 
